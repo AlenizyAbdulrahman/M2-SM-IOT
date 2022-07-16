@@ -2,4 +2,4 @@
 
 ## Speach To Text Application.
 
-![My Image](stt.png)
+
