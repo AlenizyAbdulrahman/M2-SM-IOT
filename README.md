@@ -1,5 +1,5 @@
 # M2-SM-IOT
 
-##Speach To Text Application.
+## Speach To Text Application.
 
 ![My Image](stt.png)
